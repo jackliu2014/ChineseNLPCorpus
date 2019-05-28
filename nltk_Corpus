@@ -1,0 +1,4 @@
+nltk自身的数据： https://codeload.github.com/nltk/nltk_data/zip/gh-pages
+使用方法：
+from nltk import data
+data.path.append(r"NLTK/nltk_data-gh-pages/packages")
